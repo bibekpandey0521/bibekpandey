@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/awasumina.png" alt="Profile Banner" width="800"/>
+
 
   <h1>Hi there 👋, I'm Bibek Pandey!</h1>
   <p>
